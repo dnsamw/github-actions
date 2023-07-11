@@ -1,0 +1,155 @@
+[
+    {
+        "id": 1,
+        "title": "FULL-STACK DEVELOPER",
+        "description-paras": [
+            "Are you a skilled Full Stack Developer with at least 3 years of experience? Are you looking for a dynamic and challenging role in a great company? If so, we want to hear from you!",
+            "We are currently seeking 2 Full Stack Developers to join our team. As a Full Stack Developer, you will be responsible for designing, developing, and maintaining our web applications. You will have the opportunity to work on various projects and technologies and play a key role in the success of our company.",
+            "This is a great opportunity to take your career to the next level and gain invaluable experience while working with a talented team of professionals. We offer competitive compensation and room for growth within the company. If you're looking for a challenging and rewarding role in a fast-paced and innovative environment, apply now and let's build something great together!"
+        ],
+        "responsibilities": [
+            "Develop and maintain web applications using modern technologies and frameworks.",
+            "Design and develop database schemas, queries and stored procedures.",
+            "Create front-end user interfaces from mock-ups and wireframes.",
+            "Integrate third-party APIs into existing applications.",
+            "Implement security measures such as authentication and authorization.",
+            "Collaborate with other development team members to design, develop, test, and launch applications.",
+            "An agile mindset and the ability to adapt to changing priorities and requirements."
+        ],
+        "requirements": [
+            "Bachelor's degree in Computer Science or related field.",
+            "At least 3+ years of experience developing web applications with a broad range of technologies.",
+            "Expertise in React and Next.js is required with experience in Angular would be preferred.",
+            "Proficiency in server-side development with Node.js, and PHP (Laravel).",
+            "Experience with relational database design and/or open-source RDBMS systems such as MySQL and PostgreSQL",
+            "Good understanding of cloud infrastructures (AWS or equivalent)."
+        ],
+        "apply_link": "mailto:hr@orderchimps.com?subject=Full-Stack Developer&body=Application"
+    },
+    {
+        "id": 2,
+        "title": "HEAD OF SALES",
+        "description-paras": [
+            "Are you an experienced Head of Sales with at least five years of experience with great fluency in the English language? Are you ready to take your career to the next level by leading a successful sales team? If so, we have the perfect opportunity for you!",
+            "We are a SaaS company seeking a Head of Sales to join our team. In this role, you will be responsible for leading, training, and managing a team of 5-10 sales personnel. You will have the opportunity to develop and implement sales strategies and to play a key role in the growth and success of our company.",
+            "This is a great opportunity to advance your career and gain invaluable experience while working with a talented team of professionals. We offer competitive compensation and room for growth within the company. If you're looking for a challenging and rewarding role in a dynamic and fast-paced environment, apply now and let's reach new heights together!"
+        ],
+        "responsibilities": [
+            "Lead, train and manage a team of 5-10 personnel in order to maximize sales and revenue performance in the UK",
+            "Develop creative strategies to increase customer base and generate new business",
+            "Monitor competitor activity and adjust sales strategies accordingly",
+            "Coordinate with other departments to ensure successful product launches",
+            "Develop incentive programs to motivate employees",
+            "Ensure customer satisfaction through effective communication and problem solving"
+        ],
+        "requirements": [
+            "Bachelor's degree in Business Administration, Marketing or a related field",
+            "At least five years of experience in a sales leadership role",
+            "Excellent interpersonal, communication and problem-solving skills",
+            "Ability to work under pressure, meet deadlines and adjust in a fast-paced, changing environment",
+            "Fluent in English (both written and spoken)",
+            "Strong organizational and time management skills",
+            "Proven track record of meeting or exceeding sales goals"
+        ],
+        "apply_link": "mailto:hr@orderchimps.com?subject=Head of Sales&body=Application"
+    },
+    {
+        "id": 3,
+        "title": "SALES EXECUTIVE",
+        "description-paras": [
+            "Are you an experienced Sales Executive with at least 2 years of experience, great proficiency in the English language, and a proven track record of success in cold calling? Are you ready to take your career to the next level by joining a dynamic and fast-paced sales team? If so, we have the perfect opportunity for you!",
+            "We are a growing company seeking a Sales Executive to join our team. In this role, you will be responsible for making cold calls, developing new business, and closing deals. You will have the opportunity to work with a variety of clients and will play a key role in the success of our company.",
+            "This is a great opportunity to advance your career and gain invaluable experience while working with a talented team of professionals. We offer competitive compensation and room for growth within the company. If you're looking for a challenging and rewarding role in a dynamic and fast-paced environment, apply now and let's reach new heights together!"
+        ],
+        "responsibilities": [
+            "Develop and implement effective sales strategies to increase revenue.",
+            "Establish relationships with potential customers and maintain strong relationships with existing ones.",
+            "Utilize cold calling and other sales techniques to generate leads and close deals.",
+            "Monitor market trends and competitor activity to identify new opportunities.",
+            "Follow up on customer inquiries in a timely manner.",
+            "Collaborate with other departments to ensure customer satisfaction."
+        ],
+        "requirements": [
+            "Bachelor's degree in Business or related field.",
+            "2+ years of sales experience.",
+            "Great proficiency in the English language.",
+            "Strong interpersonal and communication skills.",
+            "Ability to work independently and as part of a team.",
+            "Proven track record of success in sales."
+        ],
+        "apply_link": "mailto:hr@orderchimps.com?subject=Sales Executive&body=Application"
+    },
+    {
+        "id": 4,
+        "title": "ONBOARDING SPECIALIST",
+        "description-paras": [
+            "Are you a recent graduate or school leaver with excellent attention to detail, a customer-focused attitude, proficiency in the English language and computer literacy? Are you looking for an opportunity to start your career in customer success and onboarding? If so, we have the perfect opportunity for you!",
+            "We are a growing company seeking an Onboarding Specialist to join our team. In this role, you will be responsible for ensuring a smooth and efficient onboarding process for our new customers by providing them with the necessary information, guidance and support. You will have the opportunity to work with a variety of clients and play a key role in the success of our company.",
+            "This is an excellent opportunity to start your career and gain invaluable experience while working with a talented team of professionals. We offer competitive compensation and room for growth within the company. If you're looking for a challenging and rewarding role in a dynamic and fast-paced environment, apply now and let's reach new heights together!"
+        ],
+        "responsibilities": [
+            "Guide clients through the onboarding process by providing clear instructions and helpful advice",
+            "Ensure all necessary documentation is completed accurately and in a timely manner",
+            "Liaise with internal departments to provide clients with the best experience possible",
+            "Respond to client queries in a professional and timely manner",
+            "Maintain up-to-date records of all client onboarding activities"
+        ],
+        "requirements": [
+            "High school diploma or equivalent",
+            "Previous customer service experience preferred but not required",
+            "Excellent communication and interpersonal skills",
+            "Proficiency in the English language",
+            "Excellent organizational skills and attention to detail",
+            "Computer literacy"
+        ],
+        "apply_link": "mailto:hr@orderchimps.com?subject=Onboarding Specialist&body=Application"
+    },
+    {
+        "id": 5,
+        "title": "HYBRID APP DEVELOPER",
+        "description-paras": [
+            "Are you an experienced Hybrid App Developer with at least 3 years of experience? Are you ready to take your skills to the next level and work on cutting-edge projects? If so, we have the perfect opportunity for you!",
+            "We are a leading technology company seeking a skilled Hybrid App Developer to join our team. In this role, you will be responsible for designing, developing, and maintaining our mobile applications. You will have the opportunity to work with the latest technologies and tools and will play a key role in the success of our company.",
+            "This is a great opportunity to advance your career and gain invaluable experience while working with a talented team of professionals. We offer competitive compensation and room for growth within the company. If you're looking for a challenging and rewarding role in a dynamic and fast-paced environment, apply now and let's create something amazing together!"
+        ],
+        "responsibilities": [
+            "Develop and maintain mobile applications for hybrid platforms (iOS & Android).",
+            "Create user interfaces for the applications.",
+            "Write code for the applications in React Native or any other language required.",
+            "Test and debug the application.",
+            "Ensure compatibility across multiple devices and platforms.",
+            "Provide technical support to users when necessary."
+        ],
+        "requirements": [
+            "At least 3+ years of experience in developing mobile applications on hybrid platforms (iOS & Android).",
+            "Strong knowledge of hybrid programming languages and development tools such as React Native.",
+            "Excellent communication skills with the ability to work independently as well as part of a team.",
+            "Self-motivated with a record of meeting deadlines and producing code on time."
+        ],
+        "apply_link": "mailto:hr@orderchimps.com?subject=Hybrid App Developer&body=Application"
+    },
+    {
+        "id": 6,
+        "title": "SENIOR GRAPHIC DESIGNER",
+        "description-paras": [
+            "Are you a Senior Graphic Designer passionate about branding and brand identity creation? Do you have advanced knowledge of Adobe Creative Suite and excellent organisational and communication skills? If so, we have the perfect opportunity for you!",
+            "We are a digital transformation agency looking for a Senior Graphic Designer to join our team. In this role, you will have the opportunity to work on exciting projects, creating visually stunning designs that will help our clients stand out in their industry.",
+            "This is an excellent opportunity to take your career to the next level and gain invaluable experience while working with a talented team of professionals. We offer competitive compensation and room for growth within the company. If you're looking for a challenging and rewarding role in a dynamic and fast-paced environment, apply now and let's create something amazing together!"
+        ],
+        "responsibilities": [
+            "Develop creative concepts and design solutions that meet the needs of our clients.",
+            "Create visual brand identities, marketing materials, websites, and mobile applications.",
+            "Collaborate with the digital transformation/marketing team to develop campaigns that meet client goals.",
+            "Design print materials such as brochures, logos, posters, and advertisements.",
+            "Manage multiple projects and ensure deadlines are met."
+        ],
+        "requirements": [
+            "Qualifications in Graphic Design or a related field",
+            "3+ years of experience in graphic design, branding, and brand identity creation.",
+            "Ability to work with Microsoft Office.",
+            "Advanced knowledge of Adobe Creative Suite.",
+            "Excellent organizational and communication skills"
+        ],
+        "apply_link": "mailto:hr@orderchimps.com?subject=Senior Graphic Designer&body=Application"
+    }
+]

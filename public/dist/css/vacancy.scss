@@ -1,0 +1,46 @@
+.expanding-card {
+    height: auto;
+    padding-bottom: 1rem;
+    padding-top: 8rem;
+
+    .visible-area {
+        padding: 0 0.2rem;
+    }
+
+    .card-content {
+        transition: all 0.5s ease;
+        border-radius: 2rem;
+        border: 1px solid rgb(196, 196, 196);
+        height: 90%;
+        border: 1px solid #ffe0a3;
+
+        .card-header {
+            .title {
+                position: relative;
+                a {
+                    position: absolute;
+                    left: 0;
+                    top: 0;
+                    bottom: 0;
+                    display: flex;
+                    align-items: center;
+                    i {
+                        font-size: 1.5rem;
+                        color: #ffc34a;
+                    }
+
+                    i:hover {
+                        color: #000;
+                    }
+                }
+
+                h4 {
+                    font-size: 1.5rem;
+                    text-transform: uppercase;
+                    text-align: center;
+                    padding: 1rem 0;
+                }
+            }
+        }
+    }
+}
